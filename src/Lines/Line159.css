@@ -1,0 +1,11 @@
+
+
+    .line6{
+        height:0px;
+        transform: rotate(45deg);
+        margin-top: 149px;
+        width: 420px;
+        margin-left: -60px;
+        border: 1px solid black;
+        position: absolute;
+    }

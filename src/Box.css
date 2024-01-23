@@ -1,0 +1,24 @@
+.grid22{
+    
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.grid2 {
+    display: flex;
+    justify-content: center;
+}
+.grow{
+    
+    width: 100px;
+    height: 100px;
+    font-size: xx-large;
+    margin: 0px 0px 0px 0px;
+    
+}
